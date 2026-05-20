@@ -13,10 +13,7 @@ header:
  subtitle: "by Rute Rodrigues"
 footer:
  name: "Hey there, my name is Rute"
- bio: "I am a photographer and a tech aficionado."
- footer:
-   name: "Hey there, my name is [Your Name]"
-   bio: "I am a passionate photographer. Welcome to my portfolio! <br>Email: <a href='mailto:rutefrodrigues1993@gmail.com'>rutefrodrigues1993@gmail.com</a> <br>Phone: <a href='tel:+351925740297'>+351925740297</a>"
+ bio: "I am a passionate photographer. Welcome to my portfolio! <br>Email: <a href='mailto:rutefrodrigues1993@gmail.com'>rutefrodrigues1993@gmail.com</a> <br>Phone: <a href='tel:+351925740297'>+351925740297</a>"
  web_design: "AJ"
 
 social_urls:
