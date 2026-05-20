@@ -20,9 +20,8 @@ footer:
    email: "rutefrodrigues1993@gmail.com"
    phonenumber: "+351925740297"
  web_design: "AJ"
-site:
-  social_urls:
-    instagram: "https://www.instagram.com/rutefrodrigues_ph"  
-    linkedin: "https://www.linkedin.com/in/rutefrodrigues1994"
+social_urls:
+  instagram: "https://www.instagram.com/rutefrodrigues_ph"  
+  linkedin: "https://www.linkedin.com/in/rutefrodrigues1994"
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
 exif: '[{"tag": "Model", "icon": "fa fa-camera-retro"}, {"tag": "FNumber", "icon": "far fa-dot-circle"}, {"tag": "ExposureTime", "icon": "far fa-clock"}, {"tag": "ISOSpeedRatings", "icon": "fa fa-info-circle"}]'
